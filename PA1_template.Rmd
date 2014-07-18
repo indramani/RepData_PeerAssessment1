@@ -113,5 +113,5 @@ extrapolated data.
 ```
 
 
-These charts clearly show that people are more active on weekdays than
-on weekend.
+These charts clearly show that people are more active on weekends than
+on weekdays.

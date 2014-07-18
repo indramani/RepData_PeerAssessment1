@@ -137,5 +137,5 @@ extrapolated data.
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
 
 
-These charts clearly show that people are more active on weekdays than
-on weekend.
+These charts clearly show that people are more active on weekends than
+on weekdays.
